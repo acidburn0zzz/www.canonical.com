@@ -1,6 +1,6 @@
 canonicalwebteam.versioned-static==1.0.2
 canonicalwebteam.get-feeds==0.2.4
-Django==1.11.27
+Django==3.2.24
 whitenoise==5.0.1
 django-template-finder-view==0.3
 django-json-redirects==0.3
